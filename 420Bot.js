@@ -1,5 +1,5 @@
-//4704
-//Change test
+//4704 
+//Change test 2
     const Discord = require("discord.js");
     const log4js = require('log4js');
     const logger = log4js.getLogger();
