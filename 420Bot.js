@@ -1,4 +1,4 @@
-//4704 --
+//4704
 //Change test
     const Discord = require("discord.js");
     const log4js = require('log4js');
