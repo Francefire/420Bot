@@ -9,8 +9,8 @@
         categories: { default: { appenders: ['log'], level: 'info' } }
     });
     const bot = new Discord.Client();
- //   const token = "NDA1OTA3Nzk5MDEzNDU3OTIx.DUrzNg.wGJI3uV2zo-GHUSQ2jrD9CZZpuo";  // Token for Francefire's BOT
-    const token = "NDA1ODQxMjg5NzU0NTc0ODQ5.DU1L8Q.YQpeUqH5IIUlB0zdjbcyJasAKzo" // Token for 420Bot
+ //   const token = "PRIVATE TOKEN";  // Token for Francefire's BOT
+    const token = "PRIVATE TOKEN" // Token for 420Bot
     
 
 
